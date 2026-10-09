@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: eduardobatista26.github.io/al-folio/sitemap.xml
+Sitemap: eduardobatista26.github.io/eduardobatista26.github.io/sitemap.xml

@@ -1,19 +1,26 @@
-# -----------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------
+---
+layout: about
+title: about
+permalink: /
+subtitle: <a href="#">Universidade Federal do Amazonas</a>. Humaitá, Amazonas, Brasil.
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Eduardo da Costa
-middle_name: 
-last_name: Batista
-contact_note: >
-  Humaitá, Amazonas, Brasil
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Estudante de Engenharia Agronômica | UFAM
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with a <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website
-lang: pt
-icon: 🦉
-url: https://eduardobarista26.github.io
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Eduardo.barista0998@email.com</p>
+
+news: false
+selected_papers: false
+social: true
+---
+
+Estudante de Engenharia Agronômica no Instituto de Educação, Agricultura e Ambiente da Universidade Federal do Amazonas (UFAM IEAA) e técnico agrícola registrado no CFTA, com formação técnica prévia pelo Instituto Federal do Amazonas (IFAM). Pesquisador atuante no Laboratório de Ictiologia e Ordenamento Pesqueiro do Vale do Rio Madeira (LIOP/UFAM), desenvolvendo trabalhos na interface entre ciências agrárias, ecologia pesqueira e inovação tecnológica. Especialista no desenvolvimento de algoritmos em Python (OpenCV, TensorFlow, PyTorch) para visão computacional, processamento de imagens e diagnósticos fitossanitários em culturas amazônicas.
+
+### Short CV
+
+* **2025 – 2026** — Pesquisador Bolsista (PIBIC), LIOP / UFAM
+* **2025 – 2026** — Monitor Acadêmico de Biologia Celular, Topografia e Sociologia Rural, UFAM
+* **2024 – 2025** — Monitoramento de desembarques pesqueiros artesanais no Médio Rio Madeira
+* **2021 – 2024** — Técnico Agrícola, Instituto Federal do Amazonas (IFAM)

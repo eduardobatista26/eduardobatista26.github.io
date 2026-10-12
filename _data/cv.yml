@@ -1,0 +1,9 @@
+# Dados do currículo (não usados enquanto não houver uma página de CV).
+cv:
+  name: Eduardo da Costa Batista
+  label: Estudante de Engenharia Agronômica
+  summary: Pesquisa em visão computacional, agricultura de precisão e ecologia pesqueira.
+
+  social_networks: []
+
+  sections: {}

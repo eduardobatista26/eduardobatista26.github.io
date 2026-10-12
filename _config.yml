@@ -15,7 +15,7 @@ footer_text: >
   Hospedado no <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: engenharia agronômica, visão computacional, agricultura de precisão, python, ecologia pesqueira, UFAM
 lang: pt-BR # idioma do site
-icon: 🌱 # emoji usado como favicon
+icon:
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
 url: https://eduardobatista26.github.io
